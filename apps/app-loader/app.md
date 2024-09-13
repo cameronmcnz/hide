@@ -1,7 +1,7 @@
 ---
 layout: minimal-app
-title:  "Radpid MAP Deployment"
-blurb: "Provide a zip file with the right frontmatter & we'll do the rest!"
+title:  "Rapid Deploy"
+blurb: "Provide a zip file. We'll do the rest."
 ---
       
 <link rel="manifest" href="manifest.json"/>
